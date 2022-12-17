@@ -1,4 +1,4 @@
-terraf
+terra
   required_providers {
     google = {
       source = "hashicorp/google"
