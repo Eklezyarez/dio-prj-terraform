@@ -1,4 +1,4 @@
-terraform
+terrafor
   required_providers {
     google = {
       source = "hashicorp/google"
